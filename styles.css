@@ -1,0 +1,9 @@
+input{
+    appearance: textfield;
+    text-align: center;
+}
+
+button{
+    border-radius: 50%;
+    border: 1px solid black;
+}
